@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tesla-react-redux-clone/static/css/main.c2a5159d.css",
+    "main.js": "/tesla-react-redux-clone/static/js/main.7c7c8ffe.js",
+    "index.html": "/tesla-react-redux-clone/index.html",
+    "main.c2a5159d.css.map": "/tesla-react-redux-clone/static/css/main.c2a5159d.css.map",
+    "main.7c7c8ffe.js.map": "/tesla-react-redux-clone/static/js/main.7c7c8ffe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2a5159d.css",
+    "static/js/main.7c7c8ffe.js"
+  ]
+}
